@@ -1,0 +1,3 @@
+version: "2"
+domain: yuju.nz
+repo: github.com/yujunz/kubebuilder-quickstart
